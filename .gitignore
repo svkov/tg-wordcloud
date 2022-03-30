@@ -1,0 +1,7 @@
+*
+!.gitignore
+!notebooks
+!src
+!requirements.txt
+!mypy.ini
+!*.py
